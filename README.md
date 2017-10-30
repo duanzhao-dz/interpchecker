@@ -1,3 +1,4 @@
 # interpchecker
-InterpChecker is a tool for verifying safety properties of C programs. It reduces state space of programs throughout the verification by two kinds of new interpolations as well as the optimization strategies. It is implemented upon the open source tool CPAChecker, which is a tool for configurable software verification.
+InterpChecker is a tool for verifying safety properties of Cprograms. It reduces state space of programs throughout the verification via two new kinds of interpolations and associated optimizationstrategies. The implementation builds on the open-source, configurablesoftware verification tool, CPAChecker. 
+
 
